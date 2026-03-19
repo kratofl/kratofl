@@ -19,6 +19,12 @@
 * SQL
 * InfluxDb
 
+**Design:**
+* Figma
+
+**AI-Tools:**
+* Copilot CLI
+
 ---
 ### Some more stuff:
 
