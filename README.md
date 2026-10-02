@@ -23,7 +23,8 @@
 * Figma
 
 **AI-Tools:**
-* Copilot CLI
+Currently using T3 Code as my composer. Within I use Claude and GPT.
+Keeping up to date with newest research and findings in the dev world around using AI models, skills, prompts etc.
 
 ---
 ### Some more stuff:
